@@ -21,19 +21,18 @@
 
 
     ## Contributors
-             NAME                  ID
+             NAME           ID
+    | 1 | Abigiya Fikru - ETS0076/16 
     
-    | 1 | Abigiya Fikru        ETS0076/16 
+    | 2 | Arsema Seife - ETS0192/16
     
-    | 2 | Arsema Seife         ETS0192/16
+    | 3 | Aster Teshome - ETS0201/16
     
-    | 3 | Aster Teshome        ETS0201/16
+    | 4 | Barkot Frew - ETS0222/16
     
-    | 4 | Barkot Frew          ETS0222/16
+    | 5 | Barkot Zerihun - ETS0223/16
     
-    | 5 | Barkot Zerihun       ETS0223/16
-    
-    | 6 | Beamlak Atilabachew  ETS0229/16 
+    | 6 | Beamlak Atilabachew - ETS0229/16 
 
    
     ## Future Features & Notes
