@@ -22,8 +22,11 @@
 
     ## Contributors
     |--------------------------------------|
+    
     | - |         Name        |     ID     |
+    
     |--------------------------------------|
+    
     | 1 | Abigiya Fikru       | ETS0076/16 |
     | 2 | Arsema Seife        | ETS0192/16 |
     | 3 | Aster Teshome       | ETS0201/16 |
