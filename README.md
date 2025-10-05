@@ -9,12 +9,19 @@
  6. [Future Features & Notes](#future-features--notes)
 
     ## Project Overview
-    ...
+   
 
     ## Problem Statement
-    ...
+   
 
     ## Predicted Benefits
-    ...
+    
 
+    ## Decision Making & Future Extensions
+
+
+    ## Contributors
+    
+
+    ## Future Features & Notes
     
