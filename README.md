@@ -9,8 +9,13 @@
  6. [Future Features & Notes](#future-features--notes)
 
     ## Project Overview
-   
+    
+    The Campus Food Ordering System is a responsive web application designed to improve how students order food within a university environment. It offers a centralized, user-friendly platform where students can browse cafe(lounge) menus, add items to their cart, place stimulated orders, and recieve on-screen notifications when their food is "Ready" for pickup of delivery.
 
+    This Project is currently being developed as a part of the final project for the Internet Programming I course. It aims to address common campus challenges, such as difficulty tracking multiple orders, wasting time checking cafe availabilty, and lacking timely notifications. By centralizing menus and order management, the system impoves efficiency and provides a smoother dining experience for students.
+
+     Using HTML, CSS, and JavaScript, this project will deliver a fully interactive frontend experience, allowing students to place orders, view menus, and recieve notificatons showcasing practical skill in web development.
+    
     ## Problem Statement
    
 
