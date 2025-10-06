@@ -52,6 +52,19 @@ Ordering food on campus can be a frustrating experience for students due to seve
 
 
     ## Decision Making & Future Extensions
+    
+Current Phase Goals:
+ Help students make informed choices by showing which cafes are open and what menu items are available.
+ Display order summaries so users can review their selections.
+ Provide an easy-to-use interface where students can quickly select a cafe, add the food they want, and place an order.
+Planned Future Enhancements:
+ Connect the system to a back-end database to save orders and simulate real-time order tracking.
+ Show estimated preparation and delivery times for each order.
+ Allow multiple orders to be placed and tracked at the same time 
+Notes:
+In this phase, everything runs on the front-end using HTML, CSS, and JavaScript — no back-end is included.
+
+
 
 
     ## Contributors
