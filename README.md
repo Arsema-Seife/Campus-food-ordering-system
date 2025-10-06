@@ -41,4 +41,11 @@
 
    
     ## Future Features & Notes
-    
+    ** Planned Future Features(feasible for frontend-only development):
+    - Dynamic Menu Display: Menus will be tailored and dynamically generated based on each campus cafe's offerings, using JavaScript arrays and objects.
+    - Shopping Cart Functionslity: Users will be an=ble to add multiple items to a cart, review their selections, abd place combined orders seamlessly.
+    - Order Notifications: Real-time notifications will alert users when their orders are prepared and ready for pickup.
+    - Order Tracking and Summary: The system will calculate and display total costs and qualities for all items ordered.
+    - Responsive Design: The interface will be fully optimized for accessibility and usability across all screen sizes, including desktop, mobile and tablet devices.
+    - Local Storage Integration: Orders and user preferances will be temporarily stored in the browser to maintain session continuity between visits.
+  
