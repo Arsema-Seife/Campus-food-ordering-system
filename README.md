@@ -48,4 +48,9 @@
     - Order Tracking and Summary: The system will calculate and display total costs and qualities for all items ordered.
     - Responsive Design: The interface will be fully optimized for accessibility and usability across all screen sizes, including desktop, mobile and tablet devices.
     - Local Storage Integration: Orders and user preferances will be temporarily stored in the browser to maintain session continuity between visits.
+
+      ** Notes:
+      - The current version of this project focuses solely on frontend development.
+      - All advanced functionalities are part of the project roadmap and will be implemented progressively as we continue to learn HTML, CSS, and JavaScript.
+      - Future updates will include enhanced visual elements such as screenshots, data tables, and interactive user interfaces to improve user engagement and presentation quality.
   
