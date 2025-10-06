@@ -23,7 +23,7 @@ Ordering food on campus can be a frustrating experience for students due to seve
 1. **Fragmented Ordering Process**: Students must navigate multiple cafes, each with its own menu and order process, leading to confusing and inefficiency.
 2. **Lack of Real-Time Availability**: Without a centralized system, students often struggle to track which menu items are available, resulting in wasted time and disappointment.
 3. **Unclear Order Status**: Students frequently find themselves in the dark about when their orders are ready for pickup or delivery, causing unnecessary delays.
-4. **Queue Management Issues**: The absence of organized system can lead to unfair practices, such as individuals jumping the line while waiting for their food, creating frustration among peers.
+4. **Queue Management Issues**: The absence of organized system can lead to unfair practices, such as individuals jumping the line while waiting for their food, creating frustration among peers..
 
 
     ## Predicted Benefits
