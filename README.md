@@ -36,19 +36,19 @@ Ordering food on campus can be a frustrating experience for students due to seve
 
 3.Improved Order Accuracy: Digital ordering minimizes human errors and ensures accurate        customization of meals.
 
-3.User Convenience: Provides an easy-to-use interface for browsing menus, placing orders, making payments, and tracking order status.
+4.User Convenience: Provides an easy-to-use interface for browsing menus, placing orders, making payments, and tracking order status.
 
-4.Data-Driven Management: Generates analytical reports to help administrators optimize menus, inventory, and promotions.
+5.Data-Driven Management: Generates analytical reports to help administrators optimize menus, inventory, and promotions.
 
-5. Resource Optimization: Reduces food waste, lowers labor costs, and increases revenue through better demand forecasting.
+6. Resource Optimization: Reduces food waste, lowers labor costs, and increases revenue through better demand forecasting.
 
-6.Transparency and Accountability: Maintains digital transaction records, improving communication and auditability.
+7.Transparency and Accountability: Maintains digital transaction records, improving communication and auditability.
 
-7.Environmental Sustainability: Encourages paperless operations and reduces waste through digital processes.
+8.Environmental Sustainability: Encourages paperless operations and reduces waste through digital processes.
 
-8.Scalability: Supports future expansion to additional vendors, campuses, and new system features.
+9.Scalability: Supports future expansion to additional vendors, campuses, and new system features.
 
-9.Stakeholder Satisfaction: Enhances the overall experience for students and vendors through faster, smarter, and more reliable service.
+10.Stakeholder Satisfaction: Enhances the overall experience for students and vendors through faster, smarter, and more reliable service.
 
 
     ## Decision Making & Future Extensions
