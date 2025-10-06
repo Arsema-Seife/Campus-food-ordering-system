@@ -29,29 +29,18 @@ Ordering food on campus can be a frustrating experience for students due to seve
     ## Predicted Benefits
 
     The implementation of our Campus Food Ordering System is expected to deliver significant operational, financial, and user-experience improvements for both students and campus food service providers. The following are the main benefits:
-   
-1. Operational Efficiency:  Automates order placement and management, reducing manual work     and service delays.
+   1. Operational Efficiency:  Automates order placement and management, reducing manual work and service delays.
+   2. Reduced Waiting Time: Allows students to pre-order meals, minimizing queues and improving service flow during busy hours.
+   3. Improved Order Accuracy: Digital ordering minimizes human errors and ensures accurate customization of meals.
+   4. User Convenience: Provides an easy-to-use interface for browsing menus, placing orders, making payments, and tracking order status.
+   5. Data-Driven Management: Generates analytical reports to help administrators optimize menus, inventory, and promotions.
+   6. Resource Optimization: Reduces food waste, lowers labor costs, and increases revenue through better demand forecasting.
+   7. Transparency and Accountability: Maintains digital transaction records, improving communication and auditability.
+   8. Environmental Sustainability: Encourages paperless operations and reduces waste through digital processes.
+   9. Scalability: Supports future expansion to additional vendors, campuses, and new system features.
+   10. Stakeholder Satisfaction: Enhances the overall experience for students and vendors through faster, smarter, and more reliable service
 
-2.Reduced Waiting Time: Allows students to pre-order meals, minimizing queues and improving   service flow during busy hours.
-
-3.Improved Order Accuracy: Digital ordering minimizes human errors and ensures accurate        customization of meals.
-
-4.User Convenience: Provides an easy-to-use interface for browsing menus, placing orders, making payments, and tracking order status.
-
-5.Data-Driven Management: Generates analytical reports to help administrators optimize menus, inventory, and promotions.
-
-6. Resource Optimization: Reduces food waste, lowers labor costs, and increases revenue through better demand forecasting.
-
-7.Transparency and Accountability: Maintains digital transaction records, improving communication and auditability.
-
-8.Environmental Sustainability: Encourages paperless operations and reduces waste through digital processes.
-
-9.Scalability: Supports future expansion to additional vendors, campuses, and new system features.
-
-10.Stakeholder Satisfaction: Enhances the overall experience for students and vendors through faster, smarter, and more reliable service.
-
-
-    ## Decision Making & Future Extensions
+   ## Decision Making & Future Extensions
     
 Current Phase Goals:
 - Help students make informed choices by showing which cafes are open and what menu items are available.
@@ -69,7 +58,7 @@ In this phase, everything runs on the front-end using HTML, CSS, and JavaScript 
 
 
 
-    ## Contributors
+   ## Contributors
              NAME           ID
     | 1 | Abigiya Fikru - ETS0076/16 
     
@@ -83,8 +72,8 @@ In this phase, everything runs on the front-end using HTML, CSS, and JavaScript 
     
     | 6 | Beamlak Atilabachew - ETS0229/16 
 
-   
-    ## Future Features & Notes
+   ## Future Features & Notes
+    
     ** Planned Future Features(feasible for frontend-only development):
     - Dynamic Menu Display: Menus will be tailored and dynamically generated based on each campus cafe's offerings, using JavaScript arrays and objects.
     - Shopping Cart Functionslity: Users will be an=ble to add multiple items to a cart, review their selections, abd place combined orders seamlessly.
